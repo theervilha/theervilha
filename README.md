@@ -1,16 +1,22 @@
-### Hi there 👋
+## Olá! 😊
 
-<!--
-**theervilha/theervilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional focado em **Análise de Dados, Desenvolvimento e Chatbots**
 
-Here are some ideas to get you started:
+### Linguagens e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL | BigQuery | Banco de dados | PostgreSQL
+- Tableau | DataStudio para dashboards
+- Spreadsheets | Excel
+- Desenvolvimento Web: HTML, CSS, JS, Django, React, Material UI, 
+- Desenvolvimento de chatbots
+- Automação browser e desktop (Selenium e Pyautogui)
+- API
+- ETL
+
+## 
+
+<div> 
+  <a href = "mailto:ueniry.t@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ueniry-felipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
