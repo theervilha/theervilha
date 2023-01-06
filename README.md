@@ -1,18 +1,22 @@
 ## Olá! 😊
 
-Sou um profissional focado em **Análise de Dados, Desenvolvimento e Chatbots**
+Sou um profissional focado em **Desenvolvimento e análise de Chatbots**. Também desenvolvo sites e gosto de automação.
 
-### Linguagens e Ferramentas
+### Principais Habilidades e Ferramentas
 
-- Python
-- SQL | BigQuery | Banco de dados | PostgreSQL
-- Tableau | DataStudio para dashboards
-- Spreadsheets | Excel
-- Desenvolvimento Web: HTML, CSS, JS, Django, React, Material UI, 
-- Desenvolvimento de chatbots
-- Automação browser e desktop (Selenium e Pyautogui)
-- API
-- ETL
+Desenvolvimento e automação:
+• Python
+• Chatbot Development (Python, BLiP, DialogFlow, IBM Watson)
+• Web Development (HTML, CSS, JavaScript, Django, React)
+• Selenium
+• API
+• SCRUM
+
+Análise de dados:
+• SQL | BigQuery | Banco de dados | PostgreSQL
+• Tableau ou DataStudio para dashboards
+• Spreadsheets | Excel
+• ETL
 
 ## 
 
